@@ -1,0 +1,18 @@
+.homeList {
+  margin: auto 0;
+  height: 350px;
+  width: '800px';
+}
+
+.homeListUser {
+  display: flex;
+  align-items: center;
+}
+
+.homeListImg {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 10px;
+}
